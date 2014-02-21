@@ -1,0 +1,4 @@
+crash
+=====
+
+Simple django application
